@@ -87,8 +87,3 @@ def algo(origin, destination, mode='walking', max_distance=1.000, interests=['ca
 #           max_distance = 1.000,
 #           interests = ['cafe', 'bar'])
 
-#res.keys()  # dict_keys(['begin_point', 'end_point', 'POI', 'route', 'directions', 'mode', 'duration'])
-
-#for i in res['route']:
-#    i
-
