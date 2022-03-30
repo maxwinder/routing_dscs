@@ -1,0 +1,6 @@
+[input]
+origin = Jan Voermanstraat 21,Amsterdam
+destination = Science Park campus,Amsterdam
+mode = walking
+max_distance = 1.005
+interests = ['cafe', 'bar']
