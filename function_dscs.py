@@ -5,8 +5,9 @@
 
 YOUR_API_KEY = ''
 
+if YOUR_API_KEY == '':
+    from api_key import YOUR_API_KEY
 
-from data.api_key import YOUR_API_KEY
 from random import choice
 from math import cos, asin, sqrt, pi
 import requests
